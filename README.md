@@ -7,4 +7,4 @@ username checker for telegram
 ./install.sh
 ```
 
-By  [Milad Heidary](http://github.com/MiladHeidary)
+☤ Powered by [Amir Bagheri](http://github.com/KhodeAmir) and [Milad Heidary](http://github.com/MiladHeidary)
